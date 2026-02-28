@@ -1,3 +1,5 @@
+# **[Télécharger la dernière version](https://github.com/RKmodz/ROBLOX-Goliath/releases)**
+
 # ✨ Goliath Project – Roblox
 Goliath Project est un outil ambitieux, développé avec passion pour offrir des fonctionnalités avancées et éducatives sur Roblox.
 Chaque option a été pensée pour être pratique, lisible et intuitive, tout en constituant un apprentissage personnel, car c’est mon tout premier projet de ce type.
@@ -97,4 +99,4 @@ Je ne suis pas responsable de vos actions ni des conséquences liées à son uti
 Ce projet n'est pas open source et est destiné à un usage expérimental.
 Toute utilisation se fait à vos risques et périls.*
 
-[Télécharger la dernière version](https://github.com/RKmodz/ROBLOX-Goliath/releases)
+

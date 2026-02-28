@@ -96,3 +96,5 @@ Appuyer sur INSERT pour ouvrir le menu
 Je ne suis pas responsable de vos actions ni des conséquences liées à son utilisation.
 Ce projet n'est pas open source et est destiné à un usage expérimental.
 Toute utilisation se fait à vos risques et périls.*
+
+[Télécharger la dernière version](https://github.com/RKmodz/ROBLOX-Goliath/releases)

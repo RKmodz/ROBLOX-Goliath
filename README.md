@@ -1,7 +1,6 @@
 # ✨ Goliath Project – Roblox
-# 🗿 Fonctionnalités
 
-**🎯 Aimbot**
+# **🎯 Aimbot**
 
 Smooth aim
 
@@ -14,10 +13,10 @@ Vérification d’équipe (team check)
 Vérification de visibilité
 
 
-**🧪 Debug (non destiné aux joueurs)**
+# **🧪 Debug (non destiné aux joueurs)**
 
 
-**⚙️ Divers**
+# **⚙️ Divers**
 
 Anti-AFK
 
@@ -28,7 +27,7 @@ Rejoindre le serveur
 Réinitialisation du personnage
 
 
-**🏃 Mouvement**
+# **🏃 Mouvement**
 
 Anti dégâts de chute
 
@@ -42,7 +41,7 @@ Noclip (traverser les murs)
 
 Speed hack
 
-**👤 Options joueur**
+# **👤 Options joueur**
 
 
 Téléportation au clic
@@ -56,7 +55,7 @@ Suppression du ralentissement
 Vue troisième personne
 
 
-**👥 Liste des joueurs**
+# **👥 Liste des joueurs**
 
 Spectate
 
@@ -65,7 +64,7 @@ Téléportation vers un joueur
 Téléporter un joueur sur soi
 
 
-**👁️ Visuels**
+# **👁️ Visuels**
 
 ESP complet (Box, Distance, Vie, Nom, Tracers)
 
@@ -77,11 +76,11 @@ Team check / Afficher tous les personnages
 
 
 
-**⌨️ Raccourci**
+# **⌨️ Raccourci**
 
 INSERT → Ouvrir le menu
 
-**📥 Utilisation**
+# **📥 Utilisation**
 
 Télécharger ou copier le script
 
@@ -89,7 +88,7 @@ Injecter avec un exécuteur Lua
 
 Appuyer sur INSERT pour ouvrir le menu
 
-**⚠️ Avertissement**
+# **⚠️ Avertissement**
 
 *Le projet Goliath est fourni uniquement à des fins éducatives et de test.
 Je ne suis pas responsable de vos actions ni des conséquences liées à son utilisation.
